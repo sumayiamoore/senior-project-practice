@@ -1,3 +1,5 @@
+#Author: Sumayia Moore
+
 print("Senior Project Developer Profile")
 print()
 print("Name: Sumayia Moore")
